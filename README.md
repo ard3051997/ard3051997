@@ -16,7 +16,7 @@ My work spans the full stack of building: from PRDs and ASO strategies to voice 
 ## About Me
 
 - **Head of Product @ [KalaGato](https://www.kalagato.co)** — Singapore-based mobile app acquisition company. Portfolio spans utility, entertainment, and security apps across Android & iOS. $150K+ monthly revenue, 20M+ users across the portfolio. Exited Huge Digital Clock for $230K.
-- **CEO & Co-Founder @ [OpenHire](https://www.openhire.co)** — AI-first recruitment agency doing 50+ monthly placements at 90% gross margins. Built the entire AI stack: voice AI caller, interview platform, WhatsApp automation, programmatic job matching.
+- **CPO & Co-Founder @ [OpenHire](https://www.openhire.co)** — AI-first recruitment agency doing 50+ monthly placements at 90% gross margins. Built the entire AI stack: voice AI caller, interview platform, WhatsApp automation, programmatic job matching.
 - **VNIT Nagpur** — Chemical Engineering. Turned a non-CS degree into a product & tech career by building relentlessly.
 
 **🛠️ Stack I work with**: Claude, Gemini, n8n, Supabase, Firebase, Flutter, React, Python — whatever gets the product shipped.
@@ -51,5 +51,5 @@ My work spans the full stack of building: from PRDs and ASO strategies to voice 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishek-dhobe/">LinkedIn</a> •
   <a href="https://github.com/ard3051997">GitHub</a> •
-  <a href="mailto:abhishek@kalagato.co">Email</a>
+  <a href="mailto:abhishekdhobe@gmail.com">Email</a>
 </p>
