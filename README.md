@@ -51,6 +51,6 @@ My work spans the full stack of building: from PRDs and ASO strategies to voice 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishek-dhobe/">LinkedIn</a> •
   <a href="https://github.com/ard3051997">GitHub</a> •
-  <a href="mailto:abhishekdhobe@gmail.com">Email</a>
+  <a href="mailto:abhishekdhobe@gmail.com">Email</a> •
   <a href="https://abhishekd.pages.dev/">Portfolio</a>
 </p>
