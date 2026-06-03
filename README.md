@@ -22,30 +22,6 @@ My work spans the full stack of building: from PRDs and ASO strategies to voice 
 **🛠️ Stack I work with**: Claude, Gemini, n8n, Supabase, Firebase, Flutter, React, Python — whatever gets the product shipped.
 
 **🌱 Currently building**: Open-source tools for app store intelligence and trend discovery. If you're in mobile apps, ASO, or AI automation — let's connect.
-
-## Pinned
-
-<table>
-<tr>
-<td width="50%">
-
-### [open-trends](https://github.com/ard3051997/open-trends)
-🔍 Open-source trend discovery engine — like Exploding Topics, but transparent. Uses Google Trends API, Reddit signals, TikTok hashtag tracking, and ML-based trend scoring to surface emerging topics before they peak.
-
-`Python` `ML` `Trend Detection`
-
-</td>
-<td width="50%">
-
-### [aso-appstore](https://github.com/ard3051997/aso-appstore)
-📊 AI-powered App Store Optimization toolkit. Keyword difficulty scoring, traffic estimation, competitor SERP analysis, opportunity scoring, and automated keyword management. Built to compete with AppTweak & Sensor Tower — for free.
-
-`Python` `ASO` `App Intelligence`
-
-</td>
-</tr>
-</table>
-
 ---
 
 <p align="center">
